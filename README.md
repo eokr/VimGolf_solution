@@ -1,7 +1,7 @@
 # VimGolf_solution
 VimGolf_solution (about 5f0f5fbe280fbf000c233304, 603ba26a01b4d00009c10a49, 5f1063aa8361810006e73210, 9v0060da5177000000000209, 6013804df3308e0009368f1c)
----
----
+-----
+-----
 
 **1. 5f0f5fbe280fbf000c233304**
 
