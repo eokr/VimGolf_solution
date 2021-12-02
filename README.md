@@ -5,6 +5,8 @@ VimGolf_solution (about 5f0f5fbe280fbf000c233304, 603ba26a01b4d00009c10a49, 5f10
 
 **1. 5f0f5fbe280fbf000c233304**
 
+9타
+
 ![vimgolf 5f0f5fbe280fbf000c233304](https://user-images.githubusercontent.com/93603660/144267356-a35a6ed4-74c5-4718-8593-424380c8c315.gif)
 
 1. G
@@ -41,6 +43,8 @@ VimGolf_solution (about 5f0f5fbe280fbf000c233304, 603ba26a01b4d00009c10a49, 5f10
 
 **2. 603ba26a01b4d00009c10a49**
 
+27타
+
 ![vimgolf 603ba26a01b4d00009c10a49](https://user-images.githubusercontent.com/93603660/144282364-53410728-b246-4bab-ae1b-bf030e91d842.gif)
 
 1-24. :%s/sublime&#92;|emacs/vim/g
@@ -52,6 +56,8 @@ VimGolf_solution (about 5f0f5fbe280fbf000c233304, 603ba26a01b4d00009c10a49, 5f10
 저장하고 종료하기
 
 **3. 5f1063aa8361810006e73210**
+
+44
 
 ![vimgolf 5f1063aa8361810006e73210](https://user-images.githubusercontent.com/93603660/144310238-177da16d-0e80-40c0-b451-3d4d22a160d8.gif)
 
@@ -108,3 +114,41 @@ p로 현재위치 다음에 붙여넣기 한 후 i로 입력모드로 변환
 저장하고 종료하기
 
 **4. 9v0060da5177000000000209**
+
+83타
+
+![vimgolf 9v0060da5177000000000209](https://user-images.githubusercontent.com/93603660/144471090-86e57f64-0d48-4533-8af5-db055999f815.gif)
+
+1-14. :%s/y1/abs(y1)
+
+y1을 abs(y1)으로 치환함
+
+15-24. &#60;Ctrl&#62;:3,3s/k/b
+
+3번째 줄에서 k를 b로 치환함
+
+25-34. &#60;Ctrl&#62;:4,4s/k/r
+
+4번째 줄에서 k를 r로 치환함
+
+35-44. &#60;Ctrl&#62;:5,5s/k/g
+
+5번째 줄에서 k를 g로 치환함
+
+45-56. &#60;Ctrl&#62;:3,3s/1/2/g
+
+3번째 줄에서 1을 2로 모두 치환함
+
+57-68. &#60;Ctrl&#62;:4,4s/1/3/g
+
+4번째 줄에서 1을 3으로 모두 치환함
+
+69-80. &#60;Ctrl&#62;:5,5s/1/4/g
+
+5번째 줄에서 1을 4로 모두 치환함
+
+80-83. &#60;Ctrl&#62;ZZ
+
+저장하고 종료하기
+
+**5. **
