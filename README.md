@@ -58,9 +58,10 @@
 
 **3. 5f1063aa8361810006e73210**
 
-44
+44타
 
-![vimgolf 5f1063aa8361810006e73210](https://user-images.githubusercontent.com/93603660/144310238-177da16d-0e80-40c0-b451-3d4d22a160d8.gif)
+![vimgolf 5f1063aa8361810006e73210](https://user-images.githubusercontent.com/93603660/144704283-10568a31-c9f7-41c9-9e2d-d9b8127f3078.gif)
+
 
 1-4. jjjl
 
